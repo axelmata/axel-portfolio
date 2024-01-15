@@ -13,7 +13,7 @@ const Projects = () => {
       <div className="h-full w-full grid grid-cols-1 lg:grid-cols-3  md:flex-row gap-10 px-10">
         <ProjectCard
           src="/pokeApi.jpg"
-          title="Dashboard-Api - Curso-DevTalles"
+          title="Dashboard-Api - Curso DevTalles"
           description="Desarrollo de un dashboard con la implementacion de REDUX en NEXT.JS manejando la api de pokemon y aplicando los principios de react con hooks en manejo de components del lado del servidor."
         />
         <ProjectCard

@@ -26,7 +26,7 @@ const EXPERIENCIE = [
     {
         id: 4,
         date: "Octubre 2020",
-        title: "Ex estudiante   − Universidad Estatal Del Valle DE Ecatepec(trunca)",
+        title: "Ingenieria en comunicación y multimedia(trunca)  − Universidad Estatal Del Valle DE Ecatepec",
         description:
             "Durante mi tiempo como estudiante, realicé prácticas de desarrollo web con PHP, empleando plantillas de Bootstrap. Adquirí habilidades significativas en la creación y mejora de sitios web, fusionando la versatilidad de PHP con el diseño eficiente de Bootstrap. Estas experiencias no solo fortalecieron mis conocimientos técnicos, sino que también cultivaron mi capacidad para desarrollar soluciones web innovadoras y atractivas.",
     },
