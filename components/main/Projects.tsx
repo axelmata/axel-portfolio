@@ -13,17 +13,17 @@ const Projects = () => {
       <div className="h-full w-full grid grid-cols-1 lg:grid-cols-3  md:flex-row gap-10 px-10">
         <ProjectCard
           src="/pokeApi.jpg"
-          title="Dashboard-Api - Curso DevTalles"
-          description="Desarrollo de un dashboard con la implementacion de REDUX en NEXT.JS manejando la api de pokemon y aplicando los principios de react con hooks en manejo de components del lado del servidor."
+          title="Dashboard-Api - React"
+          description="Proyecto hecho con la PokeApi manejando sistema de fetching en server-components NEXT.JS version 13 y desarrollo de estado de favoritos con hooks de react"
         />
         <ProjectCard
           src="/adminTodo.jpeg"
-          title="AdminTodoApp - Curso Devtalles"
-          description="Desarrollo de dashboard en conjunto de server-actions y prisma para manejo de base datos y accione asincronas, envio de peticiones https con el modelo de route.ts de NEXT.JS manejo de estados con cookies implementadas de lado de NEXT, desarrollo de contador basico con estado globar REACT-REDUX"
+          title="AdminTodoApp - NEXT, Zustand, "
+          description="Desarrollo de un dashboard eficiente con Next.js, Server-Actions y Prisma para gestión de base de datos, acciones asíncronas, manejo de rutas, estados con cookies en server-side components, y un contador global implementado con React-Redux."
         />
         <ProjectCard
           src="/tesla.jpeg"
-          title="Ecommerce - Curso Devtalles"
+          title="Ecommerce - Next JS"
           description="Desarrollo de tesla-shop en conjunto de server-actions, Zustan, Prisma, Paypal,  proyecto basado en manejo de estado global con zustand, envio de peticiones asincronas locales dentro del proyecto, authProvider con AuthNext login, manejo de orgendes Swiper para carruseles internos, y envio de informacion a paypal, imagen de dockers para base de datos"
         />
 

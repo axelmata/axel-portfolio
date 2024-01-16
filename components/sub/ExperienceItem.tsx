@@ -21,7 +21,7 @@ export const ExperienceItem = ({ title, description, link, date }: Props) => {
             <h3 className="text-lg font-semibold text-yellow-800 dark:text-cyan-500 mt-2">
                 {title}
             </h3>
-            <p className="mb-4 text-base font-normal dark:text-gray-200 text-pretty">
+            <p className="mb-4 text-base font-normal text-gray-300 text-pretty">
                 {description}
             </p>
 

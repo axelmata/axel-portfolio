@@ -1,3 +1,4 @@
+import { Educacion } from '@/components/main/Educacion'
 import Encryption from '@/components/main/Encryption'
 import { Hero } from '@/components/main/Hero'
 import { MyExperience } from '@/components/main/MyExperience'
@@ -11,6 +12,7 @@ export default function Home() {
       <div className='flex flex-col '>
           <Hero />
           <MyExperience/>
+          <Educacion/>
           <Projects/>
           <Skills/>
           {/* <Encryption/> */}
